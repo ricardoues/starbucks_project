@@ -35,6 +35,11 @@ We need to response the following questions:
 
 [Copy_of_Take_Home_Assignment.docx](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/Copy_of_Take_Home_Assignment.docx): full description provided by Starbucks.
 
+## Running the code 
+
+The code was run in an Amazon EC2 instance of type m4.10xlarge which has 40 cpu cores and 160 GB memory. The code took roughly 30 minutes to run.
+
+
 
 
 
