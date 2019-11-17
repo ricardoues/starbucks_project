@@ -29,7 +29,7 @@ We need to response the following questions:
 
 [training.csv](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/training.csv): training csv file.
 
-[Test.csv](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/Testing.csv): testing csv file.
+[Test.csv](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/Test.csv): testing csv file.
 
 [test_results.py](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/test_results.py): a python file containing a function to validate the model.
 
