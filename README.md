@@ -23,5 +23,20 @@ We need to response the following questions:
 2. Build a model to select the best customers to target that maximizes the Incremental Response Rate and Net Incremental Revenue. 
 
 
+## Project components
+
+[Starbucks.ipynb](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/Starbucks.ipynb): a notebook file containing the analysis.
+
+[training.csv](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/training.csv): training csv file.
+
+[Test.csv](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/Testing.csv): testing csv file.
+
+[test_results.py](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/test_results.py): a python file containing a function to validate the model.
+
+[Copy_of_Take_Home_Assignment.docx](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/test_results.py): full description provided by Starbucks.
+
+
+
+
 
 
