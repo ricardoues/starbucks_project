@@ -33,7 +33,7 @@ We need to response the following questions:
 
 [test_results.py](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/test_results.py): a python file containing a function to validate the model.
 
-[Copy_of_Take_Home_Assignment.docx](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/test_results.py): full description provided by Starbucks.
+[Copy_of_Take_Home_Assignment.docx](https://raw.githubusercontent.com/ricardoues/starbucks_project/master/Copy_of_Take_Home_Assignment.docx): full description provided by Starbucks.
 
 
 
